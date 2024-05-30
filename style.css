@@ -122,13 +122,12 @@ form input[type="submit"]:hover {
 } 
 .footer .social-field a i{
    margin: 0,0.5rem;
-   width:15px
+   width:15px;
 }
 
 .footer .social-field a {
   text-decoration: none;
-  color:white;
-
+  color:white
 }
 .footer .social-field.twitter {
     background: linear-gradient(to right, #56a7f2, #468aca);
